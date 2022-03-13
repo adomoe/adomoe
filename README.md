@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**adomoe/adomoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working my "day job" - Quality Manager at a manufacturing plant.
+- 🌱 I’m currently upskilling by completing the Applied Data Science program through MIT Professional and Executive Learning.*
+- 👯 I’m looking to collaborate on anything that can help me apply my basic DS/ML skills ("use it or lose it").
+- 🤔 I’m looking for help with preparing for transition into a DS-focused role.  
+- 💬 Ask me about Lean and Six Sigma process improvement methodologies, and working with diverse project teams.
+- 📫 How to reach me: anthony@domoe.com https://www.linkedin.com/in/anthonydomoe/ https://www.linkedin.com/in/anthonydomoe/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've been trying to reach you about your car's extended waranty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  \* I'm just going to shorten it to "MIT" so my mom can brag about it to her friends.

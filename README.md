@@ -11,4 +11,4 @@ A little about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been trying to reach you about your car's extended waranty.
 
-  \* I'm just going to shorten it to "MIT" so my mom can brag about it to her friends.
+  \* I'm just going to shorten it to "MIT" to make it easier for my mom to brag about it to her friends.
